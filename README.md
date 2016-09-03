@@ -19,7 +19,7 @@ Technologies used:
 
 Dataset contains 500 files each representing cab driving history. (lattitude, longitude, occupancy, timestamp)
 
-<img src="https://github.com/VadymBoikov/MapCab2/tree/master/images/raw_data.png" alt="alt text" width="500" height="300">
+<img src="https://github.com/VadymBoikov/MapCab2/blob/master/images/raw_data.png" alt="alt text" width="500" height="300">
 
 
 Cab mobility traces are provided by the Exploratorium - the museum of science, art and human perception through the cabspotting project: http://cabspotting.org . "Each San Francisco based Yellow Cab vehicle is currently outfitted with a GPS tracking device that is used by dispatchers to efficiently reach customers. The data is transmitted from each cab to a central receiving station, and then delivered in real-time to dispatch computers via a central server. This system broadcasts the cab call number, location and whether the cab currently has a fare."(*) You can collect your own cab mobility traces following the instructions from http://cabspotting.org/api . 

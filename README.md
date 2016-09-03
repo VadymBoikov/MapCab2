@@ -26,7 +26,7 @@ You can also use this data set of cab mobility traces that were collected in May
 <img src="https://github.com/VadymBoikov/MapCab2/blob/master/images/raw_data.png" alt="alt text" width="500" height="300">
 
 # Data processing Framework
-<img src="https://github.com/VadymBoikov/MapCab2/blob/master/images/raw_data.png" alt="alt text" width="500" height="300">
+<img src="https://github.com/VadymBoikov/MapCab2/blob/master/images/MapCab_Framework.png" alt="alt text" width="500" height="300">
 
 
 # How to run this Pipeline
